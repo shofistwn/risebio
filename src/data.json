@@ -1,0 +1,31 @@
+{
+  "profile": {
+    "name": "Shofi Setiawan",
+    "description": "Blogger & Full-Stack Web Developer",
+    "photo": "/img/photo.png"
+  },
+  "socialMedia": {
+    "github": "https://github.com/shofistwn",
+    "twitter": "https://twitter.com/shofistwn",
+    "instagram": "https://www.instagram.com/shofistwn",
+    "linkedin": "https://www.linkedin.com/in/shofistwn",
+    "whatsapp": "https://wa.me/6289630511308"
+  },
+  "linkList": [
+    {
+      "emoji": "📝",
+      "text": "Read my articles",
+      "link": "https://www.riseku.com"
+    },
+    {
+      "emoji": "🎉",
+      "text": "Join my Discord server",
+      "link": "https://discord.riseku.com"
+    },
+    {
+      "emoji": "✉️",
+      "text": "Drop me a message",
+      "link": "mailto:shofistwn@gmail.com"
+    }
+  ]
+}
